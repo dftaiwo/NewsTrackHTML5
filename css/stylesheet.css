@@ -1,0 +1,44 @@
+/* 
+    Document   : stylesheet
+    Created on : Aug 31, 2013, 2:32:28 PM
+    Author     : Femi TAIWO <dftaiwo@gmail.com>
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body{
+        
+        font-family:'Helvetica';
+}
+
+.newsList .title{
+        font-weight:bold;
+        font-size:1.1em;
+        display:block;
+}
+
+.contentSnippet{
+        font-size:0.9em;
+        color:#666;
+        
+}
+
+.newsList li{
+        margin-bottom:1.5em;
+        display:none;
+}
+ 
+.content{
+        display:none;
+}
+
+.readMore{
+        font-size:0.8em;
+        color:#000099;
+        display:block;
+        text-decoration: none;
+}
+
+.clickToRead{
+        cursor: pointer;
+}

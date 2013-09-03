@@ -1,0 +1,39 @@
+RIM-COD-SHA1-4: bb f6 62 f1 43 05 59 36 63 8e bb 03 ef 2f 15 70 95 51 4e 2d
+RIM-COD-SHA1-3: f0 b6 7a 27 9b 21 41 ae 44 d9 54 6e 3a 62 fe 1c f1 76 bf fa
+RIM-COD-SHA1-2: c2 6b fa c3 08 16 0d a9 d0 56 d5 af 7d a1 11 db b8 8b ef d4
+RIM-COD-SHA1-1: ae 3c 47 5d a7 21 74 8d 43 bf 4d d6 06 d1 62 d4 1f 97 bf b4
+RIM-MIDlet-Flags-1: 0
+MIDlet-Jar-Size: 737247
+MIDlet-Name: NewsTrackAlpha
+MIDlet-Jar-URL: newstrack.jar
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Description: NewsTrackAlpha
+RIM-COD-URL-6: newstrack-6.cod
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bb_web_jse_api,net_rim_xml_org,net_rim_bb_browser_field2_api,net_rim_os,net_rim_bbapi_phone,net_rim_bbapi_mailv2,net_rim_pdap,net_rim_bbapi_invoke,net_rim_bbapi_browser,net_rim_bbapi_push,net_rim_bbapi_messagelist,net_rim_networkapi,net_rim_bb_browser_field_api,net_rim_xml
+RIM-COD-URL-5: newstrack-5.cod
+RIM-COD-URL-4: newstrack-4.cod
+RIM-COD-URL-3: newstrack-3.cod
+RIM-COD-URL-2: newstrack-2.cod
+RIM-COD-URL-1: newstrack-1.cod
+RIM-COD-Size-6: 54048
+RIM-COD-Size-5: 54260
+RIM-COD-Size-4: 53816
+RIM-COD-Size-3: 51888
+RIM-COD-Module-Name: newstrack
+RIM-COD-Size-2: 68092
+RIM-MIDlet-Icon-Count-2: 1
+RIM-MIDlet-Icon-2-1: ____HOVER_ICON_img/logo.png,focused
+RIM-COD-Size-1: 73996
+RIM-MIDlet-Icon-Count-1: 1
+RIM-COD-SHA1: ad 5e cb 9c 2c d1 d0 6f 9e bd fd 84 ad 85 89 f1 cf 25 4b ef
+RIM-COD-Size: 71756
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Icon-1-1: img/____HOVER_ICON_logo.png,focused
+MIDlet-Vendor: GDGLagos
+MIDlet-1: NewsTrackAlpha,img/logo.png,rim:foreground;WIDGET;
+RIM-COD-URL: newstrack.cod
+Manifest-Version: 1.0
+MIDlet-Version: 1.0.0.0
+RIM-COD-SHA1-6: 6c c7 e8 b1 19 61 81 74 02 5d 94 9e 54 d9 2e cd d5 92 85 2d
+RIM-COD-Creation-Time: 1377961637
+RIM-COD-SHA1-5: eb b3 5a 6c 09 8a ca ff 52 da 54 93 dc 35 97 7a 14 5f 1e 91

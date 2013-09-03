@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+        <head>
+                <title>NewsTrack</title>
+                <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+                <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
+                <script src="js/zepto.min.js"></script>
+                <script src="js/newstrack.js"></script>
+                <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+                <script>
+                        jQuery = $;//because of the zepto replacement of jQuery
+                        google.load("feeds", "1");
+                </script>
+                <script src="js/transparency.js"></script>
+        </head>
+        <body>
+                <div class="loadingMsg">
+                        Loading... Please wait
+                        <br />
+                        <img src="img/loading.gif" />
+                </div>
+                <ul class="newsList "  id="latestArticles">
+                        <li>
+                                <span class="title clickToRead"></span>
+                                <span class="contentSnippet"></span>
+
+                                <a href="#" class="readMore clickToRead">Read More...</a>
+                                <span class="content"></span>
+                                <span class="link"></span>
+                        </li>
+                </ul>
+        </body>
+</html>

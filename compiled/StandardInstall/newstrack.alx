@@ -1,0 +1,13 @@
+<loader version="1.0" >
+<application id="newstrack">
+<name>NewsTrackAlpha</name>
+<description>NewsTrackAlpha</description>
+<version>1.0.0.0</version>
+<vendor>GDGLagos</vendor>
+<copyright>Copyright 2013 gdglagos.com</copyright>
+<fileset Java="1.45">
+<directory></directory>
+<files>newstrack.cod</files>
+</fileset>
+</application>
+</loader>
